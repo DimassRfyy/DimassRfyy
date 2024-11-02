@@ -1,13 +1,13 @@
 <img align="left" src="images/arle1.jpg" alt="me" height="250" width="250" /> 
 
 ```
-AHzizi | FE, Excel Enthusiast 
+Muhammad Dimas Rafi | BE, Laravel Enthusiast 
 -------------------------
 Uptime: ? Years
 
-Location: Kendal, Central Java
+Location: Jakarta , East DKI Jakarta
 Languages: JavaScript
-           VBA Excel
+           PHP
            Javanese
 Learning: Web Dev
 
