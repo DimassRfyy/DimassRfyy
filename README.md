@@ -1,4 +1,4 @@
-<img align="right" src="images/arle1.jpg" alt="me" height="235" width="235" /> 
+<img align="right" src="images/arle1.jpg" alt="me" height="205" width="205" /> 
 
 ```
 Muhammad Dimas Rafi | BE, Laravel Enthusiast 
