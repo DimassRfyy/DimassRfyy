@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dimas Rafi and I'm a Software Enginer from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Dimas Rafi and I'm a Software Engineer from Indonesia</h2>
 
 ###
 
