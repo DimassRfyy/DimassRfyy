@@ -5,7 +5,7 @@ Muhammad Dimas Rafi | BE, Laravel Enthusiast
 -------------------------
 Uptime: ? Years
 
-Location: Jakarta , East DKI Jakarta
+Location: Bekasi , West Java
 Languages: JavaScript
            PHP
            Javanese
