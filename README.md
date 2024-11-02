@@ -1,4 +1,4 @@
-<img align="left" src="images/arle1.jpg" alt="me" height="250" width="250" /> 
+
 
 ```
 Muhammad Dimas Rafi | BE, Laravel Enthusiast 
@@ -12,3 +12,5 @@ Languages: JavaScript
 Learning: Web Dev
 
 ```
+
+<img align="left" src="images/arle1.jpg" alt="me" height="250" width="250" /> 
