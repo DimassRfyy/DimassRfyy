@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/DimassRfyy/DimassRfyy/raw/main/images/arle2.jpg"  />
+<img align="right" height="150" src="https://github.com/DimassRfyy/DimassRfyy/raw/main/images/arle1.jpg"  />
 
 ###
 
